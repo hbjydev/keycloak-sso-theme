@@ -1,0 +1,16 @@
+{
+  "name": "sso-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css": "tailwindcss -i ./style.css -o ./sso/common/resources/tailwind.css --postcss --minify"
+  },
+  "author": "Hayden Young <hi@hbjy.dev> (https://hbjy.io)",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
