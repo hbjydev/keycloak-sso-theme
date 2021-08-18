@@ -1,5 +1,9 @@
 # keycloak-sso-theme
 
+<center>
+<img src="./img/login-screenshot-v1.png" alt="A login screenshot" />
+</center>
+
 A Keycloak theme I'm building for an SSO system inspired (design-wise) by
 Discord's authentication service.
 
